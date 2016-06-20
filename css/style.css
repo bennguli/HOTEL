@@ -1,0 +1,24 @@
+.main{
+    width: 700px;
+    padding-left: 200px;
+    
+}
+
+
+
+
+.primary{
+    padding-right: 30px;
+    padding-left: 100px;
+    align-content:space-between;
+    font-size: 30px;
+    width: 500px;
+}
+.class{
+    font-size: 20px;
+    padding: inherit;
+    
+}
+.image{
+    float: right;
+}
