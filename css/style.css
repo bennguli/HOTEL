@@ -1,24 +1,76 @@
 .main{
-    width: 700px;
+    width: 900px;
     padding-left: 200px;
-    
+    background-blend-mode: color-dodge;
+    font-family: 'Tangerine', serif;
+    font-size: 46px;
+
+
 }
+html,body{
+     margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
 
 
 
 
 .primary{
-    padding-right: 30px;
-    padding-left: 100px;
-    align-content:space-between;
-    font-size: 30px;
-    width: 500px;
+    padding: 46px;
+  
+    align-content:center;
+    width: 200px;
+    text-decoration:none;
+    color: black;
+    font-size: 46px;
+  font-weight: 100px;
+  letter-spacing: .5px;
+  text-transform: lowercase;
+}
 }
 .class{
     font-size: 20px;
     padding: inherit;
+    align-content:center;
     
 }
 .image{
+    float:left;
+    width: 300px;
+}
+.img2{
+    float: left;
+}
+h1{
+    color: aqua;
+}
+.secondary{
+         font-size;20px;
+    text-decoration: none;
+}
+
+
+   .table {
+  border-collapse: separate;
+  border-spacing: 4px;
+}
+.table,
+th,
+td {
+  border: 1px solid #cecfd5;
+}
+th,
+td {
+  padding: 10px 15px;
+}
+.location{
+    align-content: flex-start;
+}
+.maps{
     float: right;
 }
